@@ -28,3 +28,5 @@ Author:
 
 Created with passion by [Rukhshona].
 Feel free to connect and give feedback!
+weup-ruxshon08.netlify.app
+
